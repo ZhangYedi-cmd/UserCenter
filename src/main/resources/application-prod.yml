@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: userCenter-backend
+  datasource:
+    url: jdbc:mysql://localhost:3306/userCenter
+    username: root
+    password: 123
+server:
+  port: 8024
